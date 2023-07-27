@@ -14,9 +14,6 @@ This repository contains a collection of fun and creative mini projects built us
 
 1. Clone the repository to your local machine.
 
-```bash
-git clone https://github.com/your-username/awesome-turtle-gui-mini-projects.git
-
 2.Install Python and the necessary libraries (e.g., turtle, tkinter) if not already installed.
 
 3.Open the desired project file (e.g., spirograph.py, random_walk.py) in a Python IDE or text editor.
