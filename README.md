@@ -17,11 +17,15 @@ This repository contains a collection of fun and creative mini projects built us
 ```bash
 git clone https://github.com/your-username/awesome-turtle-gui-mini-projects.git
 
-Install Python and the necessary libraries (e.g., turtle, tkinter) if not already installed.
+2.Install Python and the necessary libraries (e.g., turtle, tkinter) if not already installed.
 
-Open the desired project file (e.g., spirograph.py, random_walk.py) in a Python IDE or text editor.
+3.Open the desired project file (e.g., spirograph.py, random_walk.py) in a Python IDE or text editor.
 
-Run the Python script and enjoy the mesmerizing visual experience! 🌟
+4. Run the Python script and enjoy the mesmerizing visual experience! 🌟
+
+
+
+
 
 🤝 **Contributions**
 Contributions to this project are welcome! If you have an awesome mini project idea or want to improve an existing one, feel free to create a pull request. Please ensure that your contributions follow the Contribution Guidelines. 🙌
