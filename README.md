@@ -21,12 +21,9 @@ This repository contains a collection of fun and creative mini projects built us
 4. Run the Python script and enjoy the mesmerizing visual experience! 🌟
 
 
-
-
-
-🤝 **Contributions**
+## 🤝Contributions
 Contributions to this project are welcome! If you have an awesome mini project idea or want to improve an existing one, feel free to create a pull request. Please ensure that your contributions follow the Contribution Guidelines. 🙌
 
 
 
-🎉 # Have fun exploring and coding with Python Turtle and GUI! 🎉
+## 🎉  Have fun exploring and coding with Python Turtle and GUI! 🎉
